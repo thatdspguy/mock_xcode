@@ -2,14 +2,14 @@
   "app": "xcode",
   "workflows": {
     "clean_build": {
-      "cpu_mean": 74.0,
-      "memory_mean": 1880.0,
-      "execution_time_mean": 5.4
+      "cpu_mean": 76.0,
+      "memory_mean": 1920.0,
+      "execution_time_mean": 5.6
     },
     "incremental_build": {
-      "cpu_mean": 36.0,
-      "memory_mean": 1020.0,
-      "execution_time_mean": 1.0
+      "cpu_mean": 37.0,
+      "memory_mean": 1050.0,
+      "execution_time_mean": 1.1
     },
     "run_unit_tests": {
       "cpu_mean": 53.0,
